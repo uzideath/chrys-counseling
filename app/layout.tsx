@@ -7,10 +7,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CHRYS Counseling - Transform Your Mental Well-Being",
+  title: "Chrys Counseling - Transform Your Mental Well-Being",
   description:
-    "Personalized mental health support that adapts to your lifestyle. Accessible, stigma-free mental health care with over 30 years of experience.",
-    generator: 'v0.dev'
+    "Mental health support that adapts to your lifestyle. Accessible, stigma-free mental health care with over 30 years of experience.",
 }
 
 export default function RootLayout({
